@@ -1,0 +1,12 @@
+TgCrypto
+asyncio
+aiofiles
+aiohttp
+python-dotenv
+pyrogram
+httpx==0.25.0
+motor==3.6.0
+rich
+validators
+python-dotenv
+rich
